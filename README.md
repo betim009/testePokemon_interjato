@@ -1,0 +1,1 @@
+# testePokemon_interjato
